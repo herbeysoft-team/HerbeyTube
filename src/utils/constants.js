@@ -16,10 +16,14 @@ export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
-  { name: 'JS Mastery', icon: <CodeIcon />, },
-  { name: 'Coding', icon: <CodeIcon />, },
-  { name: 'ReactJS', icon: <CodeIcon />, },
-  { name: 'NextJS', icon: <CodeIcon />, },
+  { name: 'herbey herdarm', icon: <DeveloperModeIcon />, },
+  { name: 'Dbestech', icon: <CodeIcon />, },
+  { name: 'JavaScript Mastery', icon: <CodeIcon />, },
+  { name: 'freeCodeCamp.org', icon: <CodeIcon />, },
+  { name: 'Codevolution', icon: <CodeIcon />, },
+  { name: 'APATATV+', icon: <OndemandVideoIcon />, },
+  { name: 'LibraTv ', icon: <OndemandVideoIcon />, },
+  { name: 'YORUBAPLAY ', icon: <OndemandVideoIcon />, },
   { name: 'Music', icon: <MusicNoteIcon /> },
   { name: 'Education', icon: <SchoolIcon />, },
   { name: 'Podcast', icon: <GraphicEqIcon />, },

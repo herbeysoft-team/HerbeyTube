@@ -8,4 +8,4 @@ export { default as Sidebar } from './Sidebar';
 export { default as VideoDetails } from './VideoDetails';
 export { default as SearchFeed } from './SearchFeed';
 export { default as Videos } from './Videos';
-
+export { default as Loader } from './Loader';
